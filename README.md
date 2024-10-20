@@ -3,7 +3,7 @@
 💻 I specialize in Flutter, Flutter SDK, and.Net MAUI.
 🔭 I’m currently focused on Flutter Development.
 🌱 I enjoy contributing to open-source and maintaining my project.
-🌟 Fun fact: I'm also a huge fan of Briyani and Ice cream (when it is rain or hot).</h3>
+🌟 Fun fact: I'm also a huge fan of Briyani and Ice cream (when it is rainy or hot).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalajose96&label=Profile%20views&color=0e75b6&style=flat" alt="amalajose96" /> </p>
 
