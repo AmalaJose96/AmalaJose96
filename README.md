@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalajose96" alt="amalajose96" /></a> </p>
 
+- 🔭 I’m currently working on **Flutter Development**
+
+- 👯 I’m looking to collaborate on **Flutter**
+
 - 💬 Ask me about **.Net MAUI,Flutter**
 
 - 📫 How to reach me **amalajose62@gmail.com**
@@ -13,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amala jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amala jose" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amala-jose-6403a3146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amala-jose-6403a3146" height="30" width="40" /></a>
 <a href="https://fb.com/amala jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amala jose" height="30" width="40" /></a>
 </p>
 
