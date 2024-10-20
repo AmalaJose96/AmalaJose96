@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amala</h1>
-<h3 align="center">A passionate frontend developer from Dubai</h3>
+<h3 align="center">A passionate Mobile application developer with a love for building innovative Mobile apps!
+💻 I specialize in Flutter, Flutter SDK, and.Net MAUI.
+🔭 I’m currently focused on Flutter Development.
+🌱 I enjoy contributing to open-source and maintaining my project.
+🌟 Fun fact: I'm also a huge fan of Briyani and Ice cream (when it is rain or hot).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalajose96&label=Profile%20views&color=0e75b6&style=flat" alt="amalajose96" /> </p>
 
